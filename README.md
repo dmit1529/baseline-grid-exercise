@@ -8,7 +8,7 @@ CSS Baseline Grid Exercise:
 
 Get files: https://github.com/dmit1529/baseline-grid-exercise
 
-Use either the content proved (baseline-grid-exercise) or content of your choosing style the HTML elements to perfectly fit into a baseline grid, similar to the one done in class. If using content that is different than the provided content, make sure to choose enough text and different level heading to use the h1 through h6 tags. Wikipedia articles are good for this and you are free to borrow content from the web for educational purposes.
+Use either the content proved (baseline-grid-exercise), or content of your choosing, and style the HTML elements to perfectly fit into a baseline grid, similar to the one done in class. If using content that is different than the provided content, make sure to choose enough text and different level heading to use the h1 through h6 tags. Wikipedia articles are good for this and you are free to borrow content from the web for educational purposes.
 
 <ol>
   <li>Set your default font size to 112.5%. This will render to 18px in the browser.</li>
